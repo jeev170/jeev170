@@ -1,4 +1,4 @@
-## Hello ✨ I'm Jeevitha
+## Hello ✨ I'm Jeevietha
 
 🎓 Artificial Intelligence undergraduate  
 📍 India  
@@ -40,16 +40,8 @@ building projects that are practical, exploratory, and rooted in real-world prob
 
 ---
 
-### 📂 A few things I’ve built
-- 🛢️ **AI-Driven Oil Spill Detection** — satellite imagery, segmentation, deployment
-- 🌾 **Crop Recommendation & Yield Analysis** — ML + interactive dashboard
-- 🎓 **Student Management System** — Django-based modular backend
-- 🍽️ **Canteen Token System** — MongoDB + Express backend
-
----
-
 ### 🌍 Beyond code
-- Open-source contributor (Social Summer of Code)
+- Open-source contributor (Social Summer of Code, GirlScript Summer Of Code)
 - Member — Women Techmakers
 - Vice President — Smriti (Photography & Design Club)
 - Campus Ambassador — Unstop

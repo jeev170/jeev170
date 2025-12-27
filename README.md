@@ -1,4 +1,4 @@
-## Hello ✨ I'm Jeevietha
+## Hello, I'm Jeevietha !
 
 🎓 Artificial Intelligence undergraduate  
 📍 India  
